@@ -1,4 +1,5 @@
-/*
+/* 
+What skills are most in demand for data analysts?
 Find the count of the number of remote job postings per skill
     - display the top 5 skills by their demand in remote jobs
     - include skill id, name, and count of postings requiring the skill
