@@ -71,7 +71,7 @@ More specialized or senior roles (e.g., Principal, Senior, Director) tend to com
 Tech and finance companies like Pinterest, SmartAsset, and Patterned Learning AI dominate the list, showing that these sectors are heavily investing in data talent.
 The listing also includes healthcare (UCLA) and communications (Zoom), indicating that data analytics is a cross-industry requirement.
 
-![Top Paying Roles](assets\part_1.png)
+![Top Paying Roles](assets/part_1.png)
 *The bar chart comparing the average salaries for data analyst positions by company.*
 
 ## 2. Skills are required for the top-paying data analyst jobs
