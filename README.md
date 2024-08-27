@@ -136,7 +136,7 @@ ORDER BY
 Roles with a focus on Python, SQL, and cloud services tend to have the highest average salaries, demonstrating the value of proficiency in these areas.
 
 ### 5. Visualization:
-![Below is a bar chart visualizing the frequency of key skills across the roles](assets\part_2.png)
+![Below is a bar chart visualizing the frequency of key skills across the roles](assets/part_2.png)
 *Here is a bar chart showing the frequency of key skills in the top data analyst roles for 2023. The chart highlights how SQL, Python, and Tableau dominate, with other skills like R, Snowflake, and Jira also being valuable additions.*
 
 ## 3. Skills are most in demand for data analysts.
@@ -166,7 +166,7 @@ LIMIT 5;
 - Tableau has a total count of 3,745.
 - Power BI has the lowest count among the listed skills, with 2,609.
 
-![The most demanded skills](assets\part_3.png)
+![The most demanded skills](assets/part_3.png)
 *This suggests that SQL is a highly demanded skill, followed by Excel and Python, with Tableau and Power BI being slightly less common*.
 ## 4. Top-Paying skills.
 I identified the 25 most lucrative skills for Data Analysts. I also focused on the availability of working from home.
@@ -216,7 +216,7 @@ Tools like MicroStrategy (Avg. Salary: $121,619) are still well-paid but are low
 8. Open Source and Enterprise Collaboration Tools Have Growing Importance:
 Notion (Avg. Salary: $125,000) and Atlassian (Avg. Salary: $131,162) show that data analysts are also expected to be familiar with collaboration tools that enhance productivity in team-based environments.
 
-![Top Paying skills for Data Analysts](assets\part_4.png)
+![Top Paying skills for Data Analysts](assets/part_4.png)
 *In summary, the highest-paying roles focus heavily on data engineering, cloud platforms, and machine learning, with strong demand for both DevOps and core data science libraries. Data analysts looking to maximize their earning potential should consider specializing in these high-demand areas.*
 
 ## 5. Golden Mean
@@ -250,7 +250,7 @@ LIMIT 10
 ```
 
 ### Key Insights:
-![Golden Mean](assets\part_5.png)
+![Golden Mean](assets/part_5.png)
 *The chart above shows the relationship between job count and average salary for various skills in 2023.*
 
 1. High Demand & High Salary:
